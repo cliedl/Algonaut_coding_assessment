@@ -1,4 +1,4 @@
-Quick start:
+# Quick start:
 
 1) Clone repository and navigate to this folder
 2) Create virtual environment: #conda create --name algonaut_coding_assessment python=3.10
