@@ -26,6 +26,7 @@ if __name__ == "__main__":
     while True:
         print('________________________________________________________')
         print('What is your question?')
+
         question = input(str)
 
         # Get relevant papers
